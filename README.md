@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Persiga%20os%20seus%20sonhos" alt="Typing introduction" />
 </p>
 
+![Snake animation](https://github.com/PEDROVR20/PEDROVR20/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=PEDROVR20">
     <img src="https://komarev.com/ghpvc/?username=PEDROVR20&label=Profile%20views&color=00FFFF&style=flat-square" alt="PEDROVR20's profile views" />
