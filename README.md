@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Minha redes sociais..</h2>
+<h2 align="left">Minha redes sociais:</h2>
 
 ###
 
